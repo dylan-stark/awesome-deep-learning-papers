@@ -17,7 +17,7 @@ To get the news for newly released papers everyday, follow my [twitter](https://
 ## Awesome list criteria
 
 1. A list of **top 100 deep learning papers** published from 2012 to 2016 is suggested.
-2. If a paper is added to the list, another paper (usually from *More Papers from 2016" section) should be removed to keep top 100 papers. (Thus, removing papers is also important contributions as well as adding papers)
+2. If a paper is added to the list, another paper (usually from the *More Papers from 2016* section) should be removed to keep top 100 papers. (Thus, removing papers is also important contributions as well as adding papers)
 3. Papers that are important, but failed to be included in the list, will be listed in *More than Top 100* section.
 4. Please refer to *New Papers* and *Old Papers* sections for the papers published in recent 6 months or before 2012.
 
